@@ -10,6 +10,7 @@ The goal was to work directly with **pointers, pointer-to-pointer parameters, re
 ---
 
 ## 📂 Contents
+Detailed description of every function and its expected behaviour: **[PROBLEM.md](PROBLEM.md)**
 
 | Part | File | What it does |
 |------|------|--------------|
